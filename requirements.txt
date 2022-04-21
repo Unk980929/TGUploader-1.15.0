@@ -8,7 +8,6 @@ nmap
 tcping
 pyping
 youtube_dl
-mega.py
 requests_toolbelt
 telethon
 tenacity
